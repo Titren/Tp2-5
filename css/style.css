@@ -37,8 +37,8 @@ body{
 
 }
 
-h1 {
-	color: blue;
+#headline h1 {
+	color: #7DCEA0;
 	font-family:calibri;
 	font-size: 8vw;
 
