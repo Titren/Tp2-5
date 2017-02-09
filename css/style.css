@@ -37,12 +37,27 @@ body{
 
 }
 
+#headline{
+	width:80%;
+	margin:5%;
+	margin-top:10px;
+}
+#headline img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border: 1px solid silver;
+}	
+
 #headline h1 {
 	color: #7DCEA0;
 	font-family:calibri;
 	font-size: 8vw;
-
+	
 }
+
+
+
 
 p {
 	font-family:calibri;
