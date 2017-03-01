@@ -65,13 +65,41 @@ body{
 	
 }
 
-#habitat {
-	width:80%;
-	margin:5%;
-	margin-top:10px;
+#contenu .in {
+	margin:3%;
+	
+}	
+
+#contenu .in #habitat {
+	float:left;
+	width:50%;	
 }
 
-#habitat  h2{
+#contenu .in #habitat iframe {
+	width:90%;
+
+}
+
+#contenu .in #formulaire {
+margin-left:50%;
+}
+
+#contenu .in #formulaire input {
+	width:47%;
+	height:1.25vw;
+	margin:1%;
+}
+
+#contenu .in #formulaire input #100 {
+	width:98%;
+	height:1.25vw;
+	margin:1%;
+}
+
+
+
+
+h2{
 	color: #7DCEA0;
 	font-family:calibri;
 	font-size: 4vw;
